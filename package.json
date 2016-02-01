@@ -1,0 +1,15 @@
+{
+  "name": "tal",
+  "version": "0.0.1",
+  "description": "sdfsd",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ohad and tal",
+  "license": "ISC"
+}
